@@ -8,6 +8,7 @@
 ## iCartoonFace
 
 GitHub: https://github.com/luxiangju-PersonAI/iCartoonFace
+
 License: https://github.com/luxiangju-PersonAI/iCartoonFace/blob/main/LICENSE
 
 Reference
@@ -32,6 +33,7 @@ Reference
 ### How
 
 [VoTT](https://github.com/microsoft/VoTT)
+
 Export type: CSV
 
 ## Author
