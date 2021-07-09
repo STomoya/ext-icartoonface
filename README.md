@@ -3,7 +3,9 @@
 
 ## Updates
 
-- 2021/06/28 - eyes - 11160 images checked, 9675 images annotated.
+- 2021/07/09 - up - eyes - train - 16000 images checked, 13969 images annotated.
+- 2021/07/09 - add - eyes - test - 3500 images checked, 3034 images annotated.
+- 2021/06/28 - add - eyes - train - 11160 images checked, 9675 images annotated.
 
 ## iCartoonFace
 
